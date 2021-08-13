@@ -1,2 +1,3 @@
 # sts-benchmark-tr
-Machine translation of English STS Benchmark data set to Turkish.
+
+Semantic textual similarity dataset for the Turkish language. It is a machine translation (Azure) of the STS English dataset. 
