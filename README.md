@@ -5,6 +5,7 @@ Semantic textual similarity dataset for the Turkish language. It is a machine tr
 ## How to download in Python
 
 ```python
+import io
 import requests
 import pandas as pd
 
